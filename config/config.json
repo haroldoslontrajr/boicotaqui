@@ -1,0 +1,60 @@
+{
+  "site": {
+    "title": "Boicota Aqui",
+    "base_url": "/",
+    "favicon": "/images/favicon.png",
+    "logo": "/images/boicotaquilogo.png",
+    "logo_white": "/images/boicotaquilogo-dark.png",
+    "logo_width": "200",
+    "logo_height": "60",
+    "logo_text": "BoicotaAqui"
+  },
+  "settings": {
+    "theme_switcher": true,
+    "default_theme": "system",
+    "pagination": 6,
+    "InnerPaginationOptions": {
+      "enableTop": false,
+      "enableBottom": false
+    },
+    "summary_length": 200,
+    "blog_folder": "posts"
+  },
+  "params": {
+    "tag_manager_id": "",
+    "footer_content": "",
+    "copyright": "Desenvolvido por - Patriotas que amam o Brasil. ![alt=brasil](/images/brasil.png) ©2023 Boicotaqui. Todos os direitos reservados."
+  },
+  "metadata": {
+    "meta_author": "Statichunt",
+    "meta_image": "/images/og-image.png",
+    "meta_description": "Geeky Nextjs Personal Blog Template"
+  },
+  "widgets": {
+    "about": {
+      "enable": true,
+      "content": "O Boicotaqui é essencialmente um site de notícias, desenvolvido por patriotas que, como você, procuram por formas legítimas de protestos para manifestar seu inconformismo com a realidade do nosso país."
+    },
+    "featured_posts": {
+      "enable": true,
+      "title": "Blog Categories",
+      "showPost": 3
+    },
+    "categories": {
+      "enable": true,
+      "title": "Blog Categories"
+    },
+    "newsletter": {
+      "enable": true,
+      "title": "Junte-se a nós",
+      "content": "Faça parte do time de patriotas e seja também um COLABORADOR!<br>**Juntos somos mais fortes**",
+      "privacy_policy_page": "#",
+      "malichipm_url": ""
+    }
+  },
+  "disqus": {
+    "enable": true,
+    "shortname": "boicotaqui",
+    "settings": {}
+  }
+}

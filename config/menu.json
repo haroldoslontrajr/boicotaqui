@@ -1,0 +1,54 @@
+{
+  "main": [
+    {
+      "name": "Início",
+      "url": "/"
+    },
+    {
+      "name": "Quem Somos",
+      "url": "/about"
+    },
+    {
+      "name": "Colaboradores",
+      "url": "/contact"
+    },
+    {
+      "name": "Não Boicote",
+      "url": "/contact"
+    },
+    {
+      "name": "Humor",
+      "url": "/contact"
+    }
+  ],
+  "footer": [
+    {
+      "name": "Início",
+      "url": "/"
+    },
+    {
+      "name": "Quem Somos",
+      "url": "/about"
+    },
+    {
+      "name": "Colaboradores",
+      "url": "/contact"
+    },
+    {
+      "name": "Não Boicote",
+      "url": "/contact"
+    },
+    {
+      "name": "Humor",
+      "url": "/contact"
+    },
+    {
+      "name": "Junte-se a nós",
+      "url": "/contact"
+    },
+    {
+      "name": "Política de Privacidade",
+      "url": "#"
+    }
+  ]
+}
